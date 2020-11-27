@@ -35,9 +35,9 @@ a{
 }
 
 .bg{
-  background-image: url("foggy-trees.jfif");
+  background-image: url("images/foggy-trees.jfif");
 }
 
 .fg{
-  background-image: url("mountains.png");
+  background-image: url("images/mountains.png");
 }
